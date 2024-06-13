@@ -24,12 +24,18 @@
     <ClCompile Include="Soft.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="freeSoft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Soft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="freeSoft.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

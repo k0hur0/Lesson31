@@ -8,7 +8,8 @@ Soft::Soft()
 
 Soft::Soft(string name, string company)
 {
-
+    this->name = name;
+    this->company = company;
 }
 
 Soft::~Soft()
@@ -18,12 +19,12 @@ Soft::~Soft()
 
 void Soft::setName(string name)
 {
-
+    this->name = name;
 }
 
 void Soft::setCompany(string company)
 {
-
+    this->company = company;
 }
 
 string Soft::getName() const

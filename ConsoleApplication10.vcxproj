@@ -129,10 +129,12 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication10.cpp" />
     <ClCompile Include="Data.cpp" />
+    <ClCompile Include="freeSoft.cpp" />
     <ClCompile Include="Soft.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h" />
+    <ClInclude Include="freeSoft.h" />
     <ClInclude Include="Soft.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
